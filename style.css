@@ -1,0 +1,214 @@
+/* Common CSS and Rest code  */
+* {
+  margin: 0;
+  padding: 0 auto;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hero section CSS start here  */
+
+#hero-section .container {
+  background-color: #e7e6e6;
+  padding: 5px;
+  border-radius: 20px;
+}
+.hero-heading h1 {
+  font-size: 3.5rem;
+  font-weight: 1000;
+  /* padding-left: 50px; */
+  /* margin: 5px; */
+  /* margin-left: 10px;  */
+}
+
+.img1 {
+  background-image: url(Asm-img-4/Rectangle\ 3.png);
+  /* background-repeat: no-repeat; */
+  position: relative;
+  /* height: 80px; */
+  width: 200px;
+
+  /* padding: 5px; */
+
+  /* background-size: cover; */
+  /* background-position: center left; */
+  /* display:  inline-block; */
+
+  /* background-position: initial right; */
+  /* background-position: right top; */
+
+  /* margin-right: 200px; */
+}
+.img3-h1 {
+  background-image: url(Asm-img-4/Rectangle\ 6.png);
+  /* background-repeat: no-repeat; */
+  width: 300px;
+  position: relative;
+  /* padding-left: 10px; */
+  /* padding-right: 70px; */
+  /* padding: 5px; */
+  /* background-position: center right; */
+  /* background-position: unset right; */
+  /* margin-left: 50px; */
+}
+
+/* Brand section shart here  */
+#brand-section {
+  background-color: #ebd96b;
+}
+
+/* Shopping Section start here  */
+
+.shopping-heading h3 {
+  font-size: 1.5rem;
+  font-weight: 1000;
+}
+.shopping-heading h3 {
+  background-image: url(Asm-img-4/Vector\ 9.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+}
+
+.card {
+  border: none;
+}
+
+/* Banner Section CSS start here  */
+
+h1 {
+  font-size: 3.5rem;
+  font-weight: 1000;
+  padding-left: 50px;
+  /* margin: 5px; */
+  margin-left: 10px;
+}
+
+.bannar-h1 {
+  background-image: url(Asm-img-4/Rectangle\ 3.png);
+  background-repeat: no-repeat;
+  background-position: center left;
+  display: inline-block;
+  padding-left: 50px;
+  /* padding-bottom: 0%; */
+  /* width: 50%; */
+  /* min-height: 10px; */
+}
+.bannar-img {
+  background-color: none;
+}
+
+#banner-section {
+  background-color: #fae248;
+  margin-top: 100px;
+}
+
+/* Young Favourite section CSS start here   */
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 1000;
+}
+.favourite-heading h3 {
+  background-image: url(Asm-img-4/Vector\ 9.png);
+  background-repeat: no-repeat;
+  /* padding-left: 50px; */
+  /* background-position: center left; */
+}
+
+.card {
+  border: none;
+}
+
+/* Voucher Srction CSS start here  */
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: 1000;
+}
+.app-img img {
+  display: inline-block;
+  margin: 3px;
+  padding: 3px;
+  width: 150px;
+  align-items: center;
+}
+
+/* Group-64 Section CSS start here  */
+
+#group-section {
+  background-color: #e5c643;
+  height: 100%;
+  padding: 55px;
+}
+#group-section div .group-heading {
+  font-size: 1.5rem;
+  font-weight: 1000;
+  color: #ffffff;
+}
+div .footer-text {
+  color: #fffcf8;
+}
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-box {
+  padding: 5px;
+  border-radius: 2px;
+  background-color: #ffffff;
+  box-shadow: 2px 0px 5px, -2px -0px 5px #ffffff;
+}
+.form-box input {
+  font-size: 1.2rem;
+  color: #00000090;
+  padding: 5px 5px;
+  border: none;
+  outline: none;
+  background: #ffffff;
+}
+.form-box button {
+  color: #fff;
+  padding: 5px 10px;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  background-color: #000000;
+  cursor: pointer;
+}
+
+/* Footer Section CSS start  Here  */
+
+#footer-section h4 {
+  font-size: 1.5rem;
+  font-weight: 1000;
+  color: #ffffff;
+}
+.icon i {
+  display: inline-block;
+  padding: 10px;
+  background-color: #fae248;
+  border-radius: 10px;
+  margin: 2px;
+}
+
+footer {
+  background-color: #000000;
+}
+footer h6 {
+  color: #eaeaea;
+}
+footer ul {
+  padding: 0;
+}
+footer ul li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+footer ul li a {
+  text-decoration: none;
+  color: #787878;
+  font-size: small;
+}
