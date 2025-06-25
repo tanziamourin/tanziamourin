@@ -1,4 +1,4 @@
-<svg width="1500" height="500" xmlns="http://www.w3.org/2000/svg">
+<svg width="1500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <!-- Gradient background -->
   <rect width="100%" height="100%" fill="url(#gradient)"/>
   <defs>
@@ -8,13 +8,18 @@
     </linearGradient>
   </defs>
   
-  <!-- Your name -->
-  <text x="100" y="250" font-family="Arial" font-size="50" fill="#FF00E4">
+  <!-- Your name/text -->
+  <text x="100" y="250" font-family="Arial" font-size="50" fill="#FF00E4" font-weight="bold">
     HI, I'M [YOUR NAME]
   </text>
   
-  <!-- Your image (base64-encoded or hosted) -->
-  <image href="https://ibb.co/ksHvHSHy" x="1100" y="100" height="300" width="300" clip-path="circle(150)"/>
+  <!-- Your image - CORRECTED URL FORMAT -->
+  <image xlink:href="https://i.ibb.co/wF0j0z0L/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg" 
+         x="1100" 
+         y="100" 
+         height="300" 
+         width="300" 
+         clip-path="circle(150 at 1250 250)"/>
 </svg>
   
 ---
