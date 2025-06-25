@@ -1,87 +1,63 @@
-<h1 align="center">Hi 👋, I'm Tanzia Mourin</h1>
-<h3 align="center">💻 Full-Stack Web Developer | JavaScript Lover | MongoDB Enthusiast</h3>
+# 👋 Hi, I'm [Your Name]  
+### 🎨 Frontend Developer | UI/UX Enthusiast | JavaScript Lover  
+
+💻 Turning ideas into **responsive, pixel-perfect** web experiences  
+🌱 Currently mastering **React, TypeScript & Next.js**  
+📫 Reach me: **your.email@example.com** | [Portfolio](https://yourportfolio.com)  
 
 ---
 
-## 💫 About Me:
+## 🛠️ **Tech Stack**  
 
-- 🔭 I’m currently building real-world full-stack projects  
-- 🌱 I’m learning **Next.js** and **TypeScript**  
-- 💬 Ask me about: **React, Node.js, MongoDB, or APIs**  
-- 📬 Reach me at: [tanziamourin68@gmail.com](mailto:tanziamourin68@gmail.com)  
-- 🌐 Connect: [LinkedIn](https://linkedin.com/in/tanzia-mourin-chowdhury) | [Portfolio](https://your-portfolio.com)
+### **Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
-
-## 🌐 Socials:
-
-<p align="left">
-  <a href="https://facebook.com/tanziamourin21" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tanzia-mourin-chowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tanziamourin68@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### **Tools & Deployment**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-## 💻 Tech Stack:
+## 🚀 **Featured Projects**  
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/html5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/css3-1572b6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/tailwind-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-8e44ad?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)  
+### 1. [E-Commerce Store (React + Stripe)](https://github.com/yourusername/ecommerce)  
+🛒 Full-stack e-commerce site with cart, payments (Stripe), and admin dashboard.  
+🔹 **Tech:** React, Node.js, MongoDB, Tailwind CSS  
+⭐ **Stars:** ![GitHub Stars](https://img.shields.io/github/stars/yourusername/ecommerce?style=social)  
 
-**Backend & Auth**  
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+### 2. [Weather App (Next.js)](https://github.com/yourusername/weather-app)  
+☀️ Real-time weather forecasts with API integration.  
+🔹 **Tech:** Next.js, OpenWeather API, Chart.js  
+🚀 **Live Demo:** [Visit Here](https://yourapp.vercel.app)  
 
-**Tools & Services**  
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+### 3. [Portfolio Template (HTML/CSS)](https://github.com/yourusername/portfolio-template)  
+🎨 A minimalist, responsive portfolio template for developers.  
+🔹 **Tech:** HTML5, CSS3, JavaScript  
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats**  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanziamourin&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tanziamourin&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanziamourin&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true)  
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔗 **Connect With Me**  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanziamourin&theme=dracula&no-frame=true&no-bg=false&margin-w=4" />
-</p>
-
----
-
-## 👁️ Visitor Counter (Custom Colored)
-
-[![](https://visitcount.itsvg.in/api?id=tanziamourin&icon=2&color=6&bg=4)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/yourprofile)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/yourusername)  
 
 ---
 
-> 🧠 *“Code. Learn. Repeat.”*
-
-<!-- Designed with 💖 by Tanzia Mourin -->
+⭐ **Thanks for visiting! Let’s build something amazing.** ⭐  
