@@ -1,17 +1,22 @@
-![Banner](https://your-image-host.com/banner.png)
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=ff00e4&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-@yourhandle-FF00E4?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF00E4?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>  
-
+<svg width="1500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient background -->
+  <rect width="100%" height="100%" fill="url(#gradient)"/>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Your name -->
+  <text x="100" y="250" font-family="Arial" font-size="50" fill="#FF00E4">
+    HI, I'M [YOUR NAME]
+  </text>
+  
+  <!-- Your image (base64-encoded or hosted) -->
+  <image href="https://ibb.co/ksHvHSHy" x="1100" y="100" height="300" width="300" clip-path="circle(150)"/>
+</svg>
+  <
 ---
 
 ## 🛠️ **Tech Stack**  
