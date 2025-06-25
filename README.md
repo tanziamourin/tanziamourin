@@ -13,7 +13,7 @@
       <img 
         src="https://i.ibb.co/wF0j0z0L/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg" 
         alt="Tanzia Mourin Banner" 
-        width="320" height="180" 
+        width="20%" height="20%" 
         style="border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
     </td>
   </tr>
