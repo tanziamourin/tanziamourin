@@ -39,8 +39,8 @@ I'm a passionate **Full-Stack Web Developer** who enjoys building dynamic, respo
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?tanziamourin=your-github-tanziamourin&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?tanziamourin=your-github-tanziamourin&layout=compact&theme=react)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/username=your-github-tanziamourin&show_icons=true&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-tanziamourin&layout=compact&theme=react)
 
 ---
 
