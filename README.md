@@ -1,26 +1,24 @@
-<table>
+<table width="100%" style="margin-bottom: 30px;">
   <tr>
-    <td width="60%" valign="middle">
-
-<h1>Hi 👋, I'm Tanzia Mourin</h1>
-<h3>💻 Full-Stack Web Developer | React & Node.js Enthusiast</h3>
-
-<p>
-I'm a passionate web developer building real-world full-stack apps with clean UI and powerful backend.<br>
-Currently learning Next.js and TypeScript.<br>
-Working on a tourism website project.<br>
-</p>
-
+    <td width="60%" valign="middle" style="padding-right: 20px;">
+      <h1 style="margin: 0;">Hi 👋, I'm <strong>Tanzia Mourin</strong></h1>
+      <h3 style="margin-top: 5px; color: #555;">Full-Stack Web Developer | React & Node.js Enthusiast</h3>
+      <p style="font-size: 16px; color: #666; max-width: 450px;">
+        Passionate about building modern, clean, and efficient full-stack web applications.<br/>
+        Currently learning Next.js and TypeScript.<br/>
+        Working on a tourism website project.<br/>
+      </p>
     </td>
     <td width="40%" valign="middle" align="right">
       <img 
         src="https://i.ibb.co/wF0j0z0L/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg" 
         alt="Tanzia Mourin Banner" 
-        style="border-radius: 12px; object-fit: cover;" 
-        width="280" height="160" />
+        width="320" height="180" 
+        style="border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
     </td>
   </tr>
 </table>
+
 
 
 ---
