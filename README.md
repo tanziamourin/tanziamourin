@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00E4&width=435&lines=Hello%2C+I'm+[Your+Name];Frontend+Sorcerer;Pixel+Perfectionist;UI%2FUX+Alchemist" alt="Typing animation" />
-</p>
+![Banner](https://your-image-host.com/banner.png)
 
 <p align="center">
   <a href="https://github.com/yourusername">
