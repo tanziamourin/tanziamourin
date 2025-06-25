@@ -1,9 +1,18 @@
-# 👋 Hi, I'm [Your Name]  
-### 🎨 Frontend Developer | UI/UX Enthusiast | JavaScript Lover  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF00E4&width=435&lines=Hello%2C+I'm+[Your+Name];Frontend+Sorcerer;Pixel+Perfectionist;UI%2FUX+Alchemist" alt="Typing animation" />
+</p>
 
-💻 Turning ideas into **responsive, pixel-perfect** web experiences  
-🌱 Currently mastering **React, TypeScript & Next.js**  
-📫 Reach me: **your.email@example.com** | [Portfolio](https://yourportfolio.com)  
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VIEWS&color=ff00e4&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-@yourhandle-FF00E4?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF00E4?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>  
 
 ---
 
