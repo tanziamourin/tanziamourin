@@ -42,14 +42,12 @@ I'm a passionate **Full-Stack Web Developer** who enjoys building dynamic, respo
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanziamourin&show_icons=true&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanziamourin&layout=compact&theme=react)
 
-
 ---
 
 ## 📫 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/your-profile)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)]([https://facebook.com/your-profile](https://www.facebook.com/share/1CFEmhhYok/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/tanzia-mourin-chowdhury-5699a02b6/))  
 
 ---
 
