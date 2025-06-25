@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tanzia
 
 I'm a passionate **Full-Stack Web Developer** who enjoys building dynamic, responsive, and user-focused web applications.
 
@@ -9,9 +9,8 @@ I'm a passionate **Full-Stack Web Developer** who enjoys building dynamic, respo
 - 🔭 I’m currently working on real-world full-stack projects.
 - 🌱 I’m learning **Next.js**, **TypeScript**, and **System Design**.
 - 💬 Ask me about **React**, **Node.js**, **MongoDB**, **APIs**, or **Responsive Design**.
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- 📫 Reach me at: (mailto:tanziamourin68@gmail.com)
+- 💼 LinkedIn: (https://linkedin/tanzia-mourin-chowdhury-5699a02b6)
 
 ---
 
