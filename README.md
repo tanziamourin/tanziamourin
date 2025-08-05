@@ -3,25 +3,24 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanzia+Mourin;A+Full-Stack+Web+Developer;React+%26+Node.js+Enthusiast;Welcome+to+my+GitHub+profile!&fontSize=40" alt="Typing SVG" />
 </p>
-<table width="100%" style="margin-bottom: 30px; max-width: 900px; width: 100%; table-layout: fixed;">
-  <tr>
-    <td valign="top" style="padding-right: 20px; width: 60%; min-width: 280px;">
-      <h1 style="font-size: 2.5rem; margin-bottom: 0.3em;">Hi 👋, I'm <strong>Tanzia Mourin</strong></h1>
-      <h3 style="color: #555; font-weight: 500; margin-top: 0; font-size: 1.3rem;">Full-Stack Web Developer | React & Node.js Enthusiast</h3>
-      <p style="font-size: 16px; color: #666; max-width: 100%;">
-        Passionate about building modern, clean, and efficient full-stack web applications.<br/>
-        Currently diving deeper into Next.js and TypeScript.<br/>
-        Building a tourism web app with user-friendly features.
-      </p>
-    </td>
-    <td valign="top" align="center" style="width: 40%; min-width: 180px;">
-      <img
-        src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg"
-        alt="Tanzia Mourin Banner"
-        style="max-width: 230px; width: 100%; height: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; max-width: 900px; margin-bottom: 30px; width: 100%;">
+  <div style="flex: 1 1 60%; min-width: 280px; padding-right: 20px; box-sizing: border-box;">
+    <h1 style="font-size: 2.5rem; margin-bottom: 0.3em;">Hi 👋, I'm <strong>Tanzia Mourin</strong></h1>
+    <h3 style="color: #555; font-weight: 500; margin-top: 0; font-size: 1.3rem;">Full-Stack Web Developer | React & Node.js Enthusiast</h3>
+    <p style="font-size: 16px; color: #666; max-width: 100%;">
+      Passionate about building modern, clean, and efficient full-stack web applications.<br/>
+      Currently diving deeper into Next.js and TypeScript.<br/>
+      Building a tourism web app with user-friendly features.
+    </p>
+  </div>
+  <div style="flex: 1 1 40%; min-width: 180px; display: flex; justify-content: center; align-items: center; box-sizing: border-box;">
+    <img
+      src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg"
+      alt="Tanzia Mourin Banner"
+      style="max-width: 230px; width: 100%; height: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+  </div>
+</div>
+
 
 
 
