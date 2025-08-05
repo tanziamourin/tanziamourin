@@ -1,4 +1,8 @@
-<!-- Banner Section -->
+<!-- Banner Section --> 
+<!-- Welcome Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanzia+Mourin;A+Full-Stack+Web+Developer;React+%26+Node.js+Enthusiast;Welcome+to+my+GitHub+profile!&fontSize=40" alt="Typing SVG" />
+</p>
 <table width="100%" style="margin-bottom: 30px;">
   <tr>
     <td width="60%" valign="middle">
@@ -21,10 +25,7 @@
   </tr>
 </table>
 
-<!-- Welcome Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanzia+Mourin;A+Full-Stack+Web+Developer;React+%26+Node.js+Enthusiast;Welcome+to+my+GitHub+profile!&fontSize=40" alt="Typing SVG" />
-</p>
+
 
 
 <!-- Portfolio GIF Preview -->
