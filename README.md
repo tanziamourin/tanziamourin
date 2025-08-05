@@ -31,7 +31,8 @@
 
 <p align="center">
   <a href="https://tanzia-s-profile.web.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co/Wkk3hWw/portfolio-demo.gif" alt="Portfolio Demo GIF" width="80%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
+<!--     <img src="https://i.ibb.co/Wkk3hWw/portfolio-demo.gif" alt="Portfolio Demo GIF" width="80%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" /> -->
+    click here
   </a>
 </p>
 
