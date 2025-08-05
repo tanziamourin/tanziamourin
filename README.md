@@ -1,4 +1,4 @@
-
+<!-- Banner Section -->
 <table width="100%" style="margin-bottom: 30px;">
   <tr>
     <td width="60%" valign="middle">
@@ -11,15 +11,29 @@
       </p>
     </td>
     <td width="40%" valign="middle" align="right">
-      <img 
-        src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg" 
-        alt="Tanzia Mourin Banner" 
-        width="230px" 
-        height="auto" 
+      <img
+        src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg"
+        alt="Tanzia Mourin Banner"
+        width="230px"
+        height="auto"
         style="border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
     </td>
   </tr>
 </table>
+
+<!-- Welcome Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanzia+Mourin;A+Full-Stack+Web+Developer;React+%26+Node.js+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
+<!-- Portfolio GIF Preview -->
+## 🖥️ My Portfolio Preview
+
+<p align="center">
+  <a href="https://tanzia-s-profile.web.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.ibb.co/Wkk3hWw/portfolio-demo.gif" alt="Portfolio Demo GIF" width="80%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
+  </a>
+</p>
 
 ---
 
@@ -27,7 +41,7 @@
 
 I'm a web developer from **Bangladesh**, passionate about creating clean UI and scalable backend logic using modern JavaScript technologies.
 
-### 🚀 Current Focus
+### 🚀 Currently Focused On
 - 🔎 Learning **Next.js** and **TypeScript**
 - ✈️ Building a **Tourism Web App**
 - 🔐 Implementing **JWT Authentication**
@@ -37,17 +51,25 @@ I'm a web developer from **Bangladesh**, passionate about creating clean UI and 
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,jquery,tailwind,bootstrap,daisyui,vercel,netlify,postman,figma,canva,git,github" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanzia-mourin-chowdhury)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AunuMzMhr/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanziamourin68@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/tanzia-mourin-chowdhury" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/1AunuMzMhr/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:tanziamourin68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -61,11 +83,11 @@ I'm a web developer from **Bangladesh**, passionate about creating clean UI and 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanziamourin&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanziamourin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=tanziamourin&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=tanziamourin&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanziamourin&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanziamourin&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -74,14 +96,6 @@ I'm a web developer from **Bangladesh**, passionate about creating clean UI and 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tanziamourin&theme=onedark&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 👁️ Visitor Counter
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tanziamourin&icon=3&color=6&bg=4" />
 </p>
 
 ---
