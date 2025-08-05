@@ -3,69 +3,55 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Tanzia+Mourin;A+Full-Stack+Web+Developer;React+%26+Node.js+Enthusiast;Welcome+to+my+GitHub+profile!&fontSize=40" alt="Typing SVG" />
 </p>
-<div
-  style="
-    display: flex;
-    flex-wrap: wrap;
+
+<!-- Responsive Banner Styles -->
+<style>
+  .banner-container {
+    display: grid;
+    grid-template-columns: 60% 40%;
     max-width: 900px;
-    margin-bottom: 30px;
+    margin: 0 auto 30px auto;
     width: 100%;
+    column-gap: 20px;
     box-sizing: border-box;
-  "
->
-  <div
-    style="
-      flex: 1 1 60%;
-      min-width: 280px;
-      padding-right: 20px;
-      box-sizing: border-box;
-    "
-  >
-    <h1 style="font-size: 2.5rem; margin-bottom: 0.3em;">
-      Hi 👋, I'm <strong>Tanzia Mourin</strong>
-    </h1>
-    <h3
-      style="
-        color: #555;
-        font-weight: 500;
-        margin-top: 0;
-        font-size: 1.3rem;
-      "
-    >
-      Full-Stack Web Developer | React & Node.js Enthusiast
-    </h3>
+  }
+  .banner-text {
+    min-width: 280px;
+  }
+  .banner-image {
+    min-width: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  @media (max-width: 600px) {
+    .banner-container {
+      grid-template-columns: 1fr;
+      row-gap: 20px;
+    }
+  }
+</style>
+
+<!-- Banner Content -->
+<div class="banner-container">
+  <div class="banner-text">
+    <h1 style="font-size: 2.5rem; margin-bottom: 0.3em;">Hi 👋, I'm <strong>Tanzia Mourin</strong></h1>
+    <h3 style="color: #555; font-weight: 500; margin-top: 0; font-size: 1.3rem;">Full-Stack Web Developer | React & Node.js Enthusiast</h3>
     <p style="font-size: 16px; color: #666;">
-      Passionate about building modern, clean, and efficient full-stack web
-      applications.<br />
+      Passionate about building modern, clean, and efficient full-stack web applications.<br />
       Currently diving deeper into Next.js and TypeScript.<br />
       Building a tourism web app with user-friendly features.
     </p>
   </div>
-
-  <div
-    style="
-      flex: 1 1 40%;
-      min-width: 180px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      box-sizing: border-box;
-    "
-  >
+  <div class="banner-image">
     <img
       src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg"
       alt="Tanzia Mourin Banner"
-      style="
-        max-width: 230px;
-        width: 100%;
-        height: auto;
-        border-radius: 12px;
-        object-fit: cover;
-        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-      "
+      style="max-width: 230px; width: 100%; height: auto; border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
     />
   </div>
 </div>
+
 
 
 
