@@ -2,7 +2,7 @@
 
 
  <p align="center">
-  <img src="https://i.ibb.co.com/qMWMf17z/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" alt="Profile"  width="80%  style="border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;">
+  <img src="https://i.ibb.co.com/qMWMf17z/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" alt="Profile"  height="80%"  style="border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;">
 </p>
 
 <table width="100%" style="margin-bottom: 30px;">
