@@ -5,6 +5,30 @@
   <img src="https://i.ibb.co.com/qMWMf17z/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" alt="Profile"  height="50%"  style="border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;">
 </p>
 
+
+
+## 💫 About Me
+
+I'm a web developer from **Bangladesh**, passionate about creating clean UI and scalable backend logic using modern JavaScript technologies.
+
+### 🚀 Currently Focused On
+- 🔎 Learning **Next.js** and **TypeScript**
+- ✈️ Building a **Tourism Web App**
+- 🔐 Implementing **JWT Authentication**
+- 🧠 Growing through **real-world full-stack projects**
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=tanziamourin&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,jquery,tailwind,bootstrap,daisyui,vercel,netlify,postman,figma,canva,git,github" />
+</p>
+
 <table width="100%" style="margin-bottom: 30px;">
   <tr>
     <td width="60%" valign="middle">
@@ -36,23 +60,7 @@
 
 ---
 
-## 💫 About Me
 
-I'm a web developer from **Bangladesh**, passionate about creating clean UI and scalable backend logic using modern JavaScript technologies.
-
-### 🚀 Currently Focused On
-- 🔎 Learning **Next.js** and **TypeScript**
-- ✈️ Building a **Tourism Web App**
-- 🔐 Implementing **JWT Authentication**
-- 🧠 Growing through **real-world full-stack projects**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,firebase,jquery,tailwind,bootstrap,daisyui,vercel,netlify,postman,figma,canva,git,github" />
-</p>
 
 ---
 
