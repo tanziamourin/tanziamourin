@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.ibb.co.com/qMWMf17z/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" 
+  <img src="https://i.ibb.co/qMWMf17/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" 
        alt="Profile Banner" 
        height="270px" 
        style="border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;" />
@@ -45,7 +45,7 @@ I'm a passionate **Full-Stack Web Developer** from **Bangladesh**, focused on cr
 
 <p align="center">
   <a href="https://tanzia-s-profile.web.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co.com/3mszNFvY/Screenshot-2025-08-05-215743.png" 
+    <img src="https://i.ibb.co/3mszNFv/Screenshot-2025-08-05-215743.png" 
          alt="Portfolio Preview" 
          width="55%" 
          style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
@@ -62,6 +62,14 @@ I'm a passionate **Full-Stack Web Developer** from **Bangladesh**, focused on cr
   <img src="https://streak-stats.demolab.com?user=tanziamourin&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanziamourin&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanziamourin&theme=tokyonight" />
 </p>
 
 ---
@@ -99,4 +107,4 @@ I'm a passionate **Full-Stack Web Developer** from **Bangladesh**, focused on cr
 
 > ✨ “Build real apps. Learn deeply. Share openly.” — *Tanzia Mourin*
 
-<!-- Designed with ❤️ by Tanzia Mourin -->  Include activity graph
+<!-- Designed with ❤️ by Tanzia Mourin -->
