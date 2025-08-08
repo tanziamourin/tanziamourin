@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.ibb.co/qMWMf17/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" 
+  <img src="https://i.ibb.co.com/qMWMf17z/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" 
        alt="Profile Banner" 
        height="270px" 
        style="border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;" />
