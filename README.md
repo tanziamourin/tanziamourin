@@ -1,5 +1,30 @@
 <!-- Banner Section --> 
 
+<!-- Banner Section -->
+<table width="100%" style="margin-bottom: 30px;">
+  <tr>
+    <td width="60%" valign="middle">
+      <h1>Hi 👋, I'm <strong>Tanzia Mourin</strong></h1>
+      <h3 style="color: #555;">Full-Stack Web Developer | React & Node.js Enthusiast</h3>
+      <p style="font-size: 16px; color: #666; max-width: 450px;">
+        Passionate about building modern, clean, and efficient full-stack web applications.<br/>
+        Currently diving deeper into Next.js and TypeScript.<br/>
+        Building a tourism web app with user-friendly features.
+      </p>
+    </td>
+    <td width="40%" valign="middle" align="right">
+      <img
+        src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg"
+        alt="Tanzia Mourin Banner"
+        width="230px"
+        height="auto"
+        style="border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+    </td>
+  </tr>
+</table>
+
+
+
   <div style="display:flex; justify-content:space-between; align-items:center; padding:40px; background:#0f0f0f; min-height:100vh;">
 
     <!-- Left Content -->
@@ -44,31 +69,6 @@
       <img src="https://i.ibb.co.com/kVwX7ZzV/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg" alt="Profile" style="width:300px; height:300px; object-fit:cover; border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;" />
     </div>
   </div>
-<!-- Banner Section -->
-<table width="100%" style="margin-bottom: 30px;">
-  <tr>
-    <td width="60%" valign="middle">
-      <h1>Hi 👋, I'm <strong>Tanzia Mourin</strong></h1>
-      <h3 style="color: #555;">Full-Stack Web Developer | React & Node.js Enthusiast</h3>
-      <p style="font-size: 16px; color: #666; max-width: 450px;">
-        Passionate about building modern, clean, and efficient full-stack web applications.<br/>
-        Currently diving deeper into Next.js and TypeScript.<br/>
-        Building a tourism web app with user-friendly features.
-      </p>
-    </td>
-    <td width="40%" valign="middle" align="right">
-      <img
-        src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg"
-        alt="Tanzia Mourin Banner"
-        width="230px"
-        height="auto"
-        style="border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
-    </td>
-  </tr>
-</table>
-
-
-
 <!-- Portfolio GIF Preview -->
 ## 🖥️ My Portfolio Preview
 
