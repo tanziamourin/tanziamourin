@@ -25,50 +25,24 @@
 
 
 
-  <div style="display:flex; justify-content:space-between; align-items:center; padding:40px; background:#0f0f0f; min-height:100vh;">
+ <p align="center">
+  <img src="https://i.ibb.co.com/kVwX7ZzV/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg" alt="Profile" width="300" style="border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;">
+</p>
 
-    <!-- Left Content -->
-    <div style="display:flex; flex-direction:column; gap:30px;">
-      
-      <!-- Stack Icons -->
-      <div style="display:flex; gap:20px;">
-        <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" style="width:50px; height:50px;" />
-          <span style="margin-top:5px; font-size:18px; font-weight:bold;">M</span>
-        </div>
-        <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" style="width:50px; height:50px;" />
-          <span style="margin-top:5px; font-size:18px; font-weight:bold;">R</span>
-        </div>
-        <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" style="width:50px; height:50px;" />
-          <span style="margin-top:5px; font-size:18px; font-weight:bold;">E</span>
-        </div>
-        <div style="display:flex; flex-direction:column; align-items:center;">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" style="width:50px; height:50px;" />
-          <span style="margin-top:5px; font-size:18px; font-weight:bold;">N</span>
-        </div>
-      </div>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express" width="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50" />
+</p>
 
-      <!-- Developer Text -->
-      <h2 style="font-size:28px; margin:0;">Developer</h2>
+<h2 align="center">Developer</h2>
 
-      <!-- Social Icons -->
-      <div style="display:flex; gap:20px;">
-        <a href="mailto:your-email@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width:40px; height:40px; filter:grayscale(100%); transition:0.3s;" />
-        </a>
-        <a href="https://linkedin.com/in/your-link" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:40px; height:40px; filter:grayscale(100%); transition:0.3s;" />
-        </a>
-      </div>
-    </div>
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" /></a>
+</p>
 
-    <!-- Right Profile Photo -->
-    <div>
-      <img src="https://i.ibb.co.com/kVwX7ZzV/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg" alt="Profile" style="width:300px; height:300px; object-fit:cover; border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;" />
-    </div>
-  </div>
 <!-- Portfolio GIF Preview -->
 ## 🖥️ My Portfolio Preview
 
