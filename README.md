@@ -4,7 +4,7 @@
  <p align="center">
   <img src="https://i.ibb.co.com/qMWMf17z/Black-and-Teal-Modern-Web-Developer-Presentation-1.png" alt="Profile"  style="border-radius:25% 75% 50% 50% / 50% 25% 75% 50%; border:5px solid #1abc9c;">
 </p>
-<!-- Banner Section -->
+
 <table width="100%" style="margin-bottom: 30px;">
   <tr>
     <td width="60%" valign="middle">
@@ -16,14 +16,7 @@
         Building a tourism web app with user-friendly features.
       </p>
     </td>
-    <td width="40%" valign="middle" align="right">
-      <img
-        src="https://i.ibb.co/LdKXgstp/Whats-App-Image-2025-06-25-at-11-47-06-c24bd1b9.jpg"
-        alt="Tanzia Mourin Banner"
-        width="230px"
-        height="auto"
-        style="border-radius: 12px; object-fit: cover; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
-    </td>
+   
   </tr>
 </table>
 
@@ -36,7 +29,7 @@
 
 <p align="center">
   <a href="https://tanzia-s-profile.web.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.co.com/3mszNFvY/Screenshot-2025-08-05-215743.png" alt="Portfolio Demo GIF" width="80%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
+    <img src="https://i.ibb.co.com/3mszNFvY/Screenshot-2025-08-05-215743.png" alt="Portfolio Demo GIF" width="50%" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
     
   </a>
 </p>
