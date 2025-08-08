@@ -45,7 +45,7 @@ I'm a passionate **Full-Stack Web Developer** from **Bangladesh**, focused on cr
 
 <p align="center">
   <a href="https://tanzia-s-profile.web.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.ibb.com/3mszNFv/Screenshot-2025-08-05-215743.png" 
+    <img src="https://i.ibb.co.com/3mszNFvY/Screenshot-2025-08-05-215743.png" 
          alt="Portfolio Preview" 
          width="55%" 
          style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);" />
